@@ -70,6 +70,10 @@ python pipeline.py --stdout-only
 
 # JSON output for downstream tooling
 python pipeline.py --json
+
+# Launch the Streamlit web dashboard
+pip install -r requirements.txt
+streamlit run streamlit_ui.py
 ```
 
 No dependencies beyond the Python 3.13+ standard library.
