@@ -2,6 +2,7 @@
 
 **Portfolio Project 5** — An automated agentic workflow that monitors competitors and produces a daily intelligence brief.
 
+[![Status: Live](https://img.shields.io/badge/status-live-22c55e.svg)](https://github.com/agenticph-labs/p5-competitive-intel)
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -169,3 +170,7 @@ def collect_news(competitors, days_back=90):
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+*Portfolio Project 5 — [AgenticPH Labs](https://agenticph-labs.github.io/portfolio)*
