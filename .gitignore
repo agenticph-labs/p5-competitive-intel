@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+brief_*.md
+!brief_sample.md
